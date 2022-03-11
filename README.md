@@ -1,6 +1,6 @@
 # Analysis-Outliers
  
-Pojet 5 du Parcours Data Analyst d'OpenClassrooms.
+Projet 5 du Parcours Data Analyst d'OpenClassrooms.
 
 
 Gestion des stocks d'une boutique en ligne de vins et alcools.
