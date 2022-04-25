@@ -1,7 +1,13 @@
 # Analyse de ventes et recherche d'outliers
  
-Projet Openclassrooms formation data Analyst  
-Gestion des stocks d'une boutique en ligne de vins et alcools.
+Projet Openclassrooms - Formation Data Analyst  
+
+
+Objectif : relier l'ERP et le CMS, analyse de CA, vérification des outliers  
+
+Contenu :
+- Data : données utilisée (ERP, CMS, fichier lien)
+- Notebook : le notebook jupyter regroupant les manipulations et les analyses
 
 Utilisation des librairies : Numpy, Pandas, Matplotlib et Seaborn
 
